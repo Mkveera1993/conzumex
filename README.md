@@ -44,6 +44,12 @@ NOTES
 3.when you logged in successfully,in the response token will come.<br>
 4.please add header for authenticated api's like "x-access-token: LOGIN SUCCESS TOKEN" //please replace login response token<br>
 
+
+For API List  
+============<br>
+
+Please see click WIKI tab and see Home page
+
                                                                     
  
 
