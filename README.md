@@ -42,15 +42,10 @@ NOTES
 1.Please seedData.js file for username and password list <br>
 2.whenever application starts new data set will be created,so please drop the "conzumex" DB before start the application<br>
 3.when you logged in successfully,in the response token will come.<br>
-4.please add header for authenticated api's like "x-access-token: <LOGIN SUCCESS TOKEN>" //please replace login response token<br>
+4.please add header for authenticated api's like "x-access-token: LOGIN SUCCESS TOKEN" //please replace login response token<br>
 
-API LIST
-========
-
-
-
-
-
+                                                                    
+ 
 
 
 
